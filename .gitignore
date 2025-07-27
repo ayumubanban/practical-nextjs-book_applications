@@ -5,3 +5,6 @@
 *.psd
 tsconfig.tsbuildinfo
 node_modules
+
+# 元々 .env がリポジトリに含められていたがそれはしたくない
+.env
